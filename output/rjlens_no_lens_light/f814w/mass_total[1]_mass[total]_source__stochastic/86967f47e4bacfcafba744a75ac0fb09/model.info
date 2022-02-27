@@ -1,0 +1,66 @@
+Total Free Parameters = 9 
+
+model                                                                                     ModelMapper (N=9)
+    galaxies                                                                              ModelMapper (N=9)
+        lens                                                                              Galaxy (N=9)
+            hyper_model_image                                                             Array2D (N=0)
+                mask                                                                      Mask2D (N=0)
+            hyper_galaxy_image                                                            Array2D (N=0)
+                mask                                                                      Mask2D (N=0)
+            mass                                                                          EllPowerLaw (N=6)
+            smbh                                                                          PointMass (N=3)
+            shear                                                                         ExternalShear (N=2)
+        source                                                                            Galaxy (N=0)
+            pixelization                                                                  VoronoiBrightnessImage (N=0)
+            regularization                                                                AdaptiveBrightness (N=0)
+            hyper_model_image                                                             Array2D (N=0)
+                mask                                                                      Mask2D (N=0)
+            hyper_galaxy_image                                                            Array2D (N=0)
+                mask                                                                      Mask2D (N=0) 
+
+galaxies
+    lens
+        redshift                                                                          0.169
+        hyper_model_image
+            mask
+                pixel_scales                                                              (0.04, 0.04)
+                origin                                                                    (0.0, 0.0)
+        hyper_galaxy_image
+            mask
+                pixel_scales                                                              (0.04, 0.04)
+                origin                                                                    (0.0, 0.0)
+        mass
+            centre
+                centre_0                                                                  GaussianPrior, mean = 0.06195025975679627, sigma = 0.05
+                centre_1                                                                  GaussianPrior, mean = 0.0190965973377017, sigma = 0.05
+            elliptical_comps
+                elliptical_comps_0                                                        GaussianPrior, mean = 0.143168833215204, sigma = 0.2
+                elliptical_comps_1                                                        GaussianPrior, mean = -0.08838348196588902, sigma = 0.2
+            einstein_radius                                                               GaussianPrior, mean = 1.424395285382832, sigma = 0.356098821345708
+            slope                                                                         GaussianPrior, mean = 1.612480815474487, sigma = 0.2
+        smbh
+            centre
+                centre_0                                                                  GaussianPrior, mean = 0.06195025975679627, sigma = 0.05
+                centre_1                                                                  GaussianPrior, mean = 0.0190965973377017, sigma = 0.05
+            einstein_radius                                                               GaussianPrior, mean = 0.6305723398897647, sigma = 0.15764308497244117
+        shear
+            elliptical_comps
+                elliptical_comps_0                                                        GaussianPrior, mean = -0.0881416720087818, sigma = 0.05
+                elliptical_comps_1                                                        GaussianPrior, mean = 0.1447582540086357, sigma = 0.05
+    source
+        redshift                                                                          0.451
+        pixelization
+            weight_floor                                                                  0.49501076385901666
+            weight_power                                                                  16.324406558179
+        regularization
+            inner_coefficient                                                             0.5438165305852884
+            outer_coefficient                                                             31.407284752030034
+            signal_scale                                                                  0.1092963333520203
+        hyper_model_image
+            mask
+                pixel_scales                                                              (0.04, 0.04)
+                origin                                                                    (0.0, 0.0)
+        hyper_galaxy_image
+            mask
+                pixel_scales                                                              (0.04, 0.04)
+                origin                                                                    (0.0, 0.0)

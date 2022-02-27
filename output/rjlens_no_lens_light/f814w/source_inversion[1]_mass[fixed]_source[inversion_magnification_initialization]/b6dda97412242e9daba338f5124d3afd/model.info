@@ -1,0 +1,31 @@
+Total Free Parameters = 3 
+
+model                                                                                     CollectionPriorModel (N=3)
+    galaxies                                                                              CollectionPriorModel (N=3)
+        lens                                                                              Galaxy (N=0)
+            mass                                                                          EllIsothermal (N=0)
+            shear                                                                         ExternalShear (N=0)
+        source                                                                            Galaxy (N=3)
+            pixelization                                                                  VoronoiMagnification (N=2)
+            regularization                                                                Constant (N=1) 
+
+galaxies
+    lens
+        redshift                                                                          0.169
+        mass
+            centre                                                                        (0.0029018813980502957, 0.007980158292311046)
+            elliptical_comps                                                              (0.20782107214097678, -0.09115270187202625)
+            einstein_radius                                                               1.9627243088545092
+            slope                                                                         2.0
+            core_radius                                                                   0.0
+        shear
+            centre                                                                        (0.0, 0.0)
+            elliptical_comps                                                              (-0.09905948162517347, 0.19896210033618156)
+    source
+        redshift                                                                          0.451
+        pixelization
+            shape
+                shape_0                                                                   UniformPrior, lower_limit = 20.0, upper_limit = 45.0
+                shape_1                                                                   UniformPrior, lower_limit = 20.0, upper_limit = 45.0
+        regularization
+            coefficient                                                                   LogUniformPrior, lower_limit = 1e-06, upper_limit = 1000000.0

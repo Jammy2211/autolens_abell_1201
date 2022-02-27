@@ -1,0 +1,8 @@
+Saving path info
+Not complete. Starting non-linear search.
+number_of_cores == 28...
+...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+Saving path info
+Not complete. Starting non-linear search.
+number_of_cores == 28...
+...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.

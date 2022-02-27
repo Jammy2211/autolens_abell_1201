@@ -1,0 +1,14 @@
+{
+    "repeats": 1,
+    "fit_time": 2.2166812419891357,
+    "image_pixels": 26885,
+    "sub_size_light_profiles": 1,
+    "sub_size_inversion": 4,
+    "psf_shape_2d": [
+        15,
+        15
+    ],
+    "source_pixels": 1990,
+    "w_tilde_curvature_preload_size": 10456653,
+    "snr_cut": -1e+99
+}
