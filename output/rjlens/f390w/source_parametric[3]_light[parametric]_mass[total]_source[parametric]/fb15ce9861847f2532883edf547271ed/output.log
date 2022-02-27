@@ -1,0 +1,1329 @@
+Saving path info
+Not complete. Starting non-linear search.
+number_of_cores == 28...
+...using SneakyPool. This copies the likelihood functionto each process on instantiation to avoid copying multipletimes.
+No Dynesty samples found, beginning new non-linear search. 
+5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+65000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+70000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+75000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+80000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+85000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+90000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+95000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+100000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+105000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+110000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+115000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+120000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+125000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+130000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+135000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+140000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+145000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+150000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+155000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+160000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+165000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+170000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+175000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+180000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+185000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+190000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+195000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+200000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+205000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+210000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+215000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+220000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+225000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+230000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+235000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+240000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+245000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+250000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+255000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+260000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+265000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+270000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+275000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+280000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+285000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+290000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+295000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+300000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+305000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+310000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+315000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+320000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+325000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+330000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+335000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+340000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+345000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+350000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+355000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+360000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+365000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+370000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+375000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+380000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+385000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+390000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+395000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+400000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+405000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+410000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+415000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+420000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+425000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+430000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+435000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+440000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+445000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+450000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+455000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+460000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+465000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+470000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+475000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+480000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+485000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+490000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+495000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+500000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+505000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+510000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+515000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+520000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+525000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+530000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+535000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+540000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+545000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+550000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+555000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+560000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+565000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+570000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+575000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+580000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+585000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+590000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+595000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+600000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+605000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+610000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+615000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+620000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+625000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+630000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+635000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+640000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+645000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+650000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+655000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+660000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+665000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+670000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+675000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+680000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+685000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+690000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+695000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+700000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+705000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+710000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+715000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+720000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+725000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+730000 Iterations: Performing update (Visualization, outputting samples, etc.).
+Visualizing
+Outputting model result
+Removing state files
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
+Saving path info
+Already completed, skipping non-linear search.
+Forcing pickle overwrite
+Removing zip file
