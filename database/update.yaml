@@ -1,0 +1,6 @@
+autoarray.inversion.pixelizations.VoronoiMagnification: autoarray.inversion.pixelizations.voronoi.VoronoiMagnification
+autoarray.inversion.pixelizations.VoronoiBrightnessImage: autoarray.inversion.pixelizations.voronoi.VoronoiBrightnessImage
+autoarray.inversion.regularization.Constant: autoarray.inversion.regularization.constant.Constant
+autoarray.inversion.regularization.AdaptiveBrightness: autoarray.inversion.regularization.adaptive_brightness.AdaptiveBrightness
+autogalaxy.profiles.light_profiles.EllSersic: autogalaxy.profiles.light_profiles.light_profiles.EllSersic
+autogalaxy.profiles.light_profiles.EllExponential: autogalaxy.profiles.light_profiles.light_profiles.EllExponential

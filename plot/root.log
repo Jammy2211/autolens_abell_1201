@@ -1,0 +1,8 @@
+2021-08-03 09:33:56,314 - autoconf.conf - WARNING - Pushing new config with path C:\Users\Jammy\Code\PyAuto\PyAutoArray\autoarray\config
+2021-08-03 09:33:56,341 - autoconf.conf - WARNING - No configuration found at path C:\Users\Jammy\Results\projects\rjlens\plot\config
+2021-08-03 09:33:56,384 - autoconf.conf - WARNING - Pushing new config with path C:\Users\Jammy\Code\PyAuto\PyAutoGalaxy\autogalaxy\config
+2021-08-03 09:33:56,466 - autoconf.conf - WARNING - No configuration found at path C:\Users\Jammy\Results\projects\rjlens\plot\config
+2021-08-03 09:33:56,484 - autoconf.conf - WARNING - Pushing new config with path C:\Users\Jammy\Code\PyAuto\PyAutoLens\autolens\config
+2021-08-03 09:33:56,524 - autoconf.conf - WARNING - No configuration found at path C:\Users\Jammy\Results\projects\rjlens\plot\config
+2021-08-03 09:33:56,527 - autoconf.conf - WARNING - Pushing new config with path C:\Users\Jammy\Results\projects\rjlens\plot\config
+2021-08-03 09:34:04,409 - autofit.database.aggregator.aggregator - INFO - 0 fit(s) found matching query
