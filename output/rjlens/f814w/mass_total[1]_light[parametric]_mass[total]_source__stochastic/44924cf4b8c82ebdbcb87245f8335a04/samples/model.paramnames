@@ -1,0 +1,10 @@
+galaxies_lens_mass_centre_0                                           y_c
+galaxies_lens_mass_centre_1                                           x_c
+galaxies_lens_mass_elliptical_comps_0                                 \epsilon_{\rm 1}_e
+galaxies_lens_mass_elliptical_comps_1                                 \epsilon_{\rm 2}_e
+galaxies_lens_mass_einstein_radius                                    \theta_{\rm Ein}_e
+galaxies_lens_shear_elliptical_comps_0                                \epsilon_{\rm 1}_e
+galaxies_lens_shear_elliptical_comps_1                                \epsilon_{\rm 2}_e
+galaxies_lens_mass_inner_slope                                        t_{\rm 1}_i
+galaxies_lens_mass_outer_slope                                        t_{\rm 2}_o
+galaxies_lens_mass_break_radius                                       \theta_{\rm B}_b

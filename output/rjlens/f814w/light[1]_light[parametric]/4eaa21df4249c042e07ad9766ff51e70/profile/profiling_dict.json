@@ -1,0 +1,20 @@
+{
+    "image_2d_from_grid_0": 0.0077130794525146484,
+    "image_2d_from_grid_1": 0.0302736759185791,
+    "image_2d_from_grid_2": 0.004030704498291016,
+    "image_2d_from_grid_3": 0.0027081966400146484,
+    "image_2d_from_grid_4": 0.0019252300262451172,
+    "convolve_via_convolver_0": 0.012803316116333008,
+    "w_tilde_data_0": 0.01513361930847168,
+    "data_vector_0": 0.0007791519165039062,
+    "curvature_matrix_0": 0.4177567958831787,
+    "regularization_matrix_0": 4.5299530029296875e-06,
+    "curvature_reg_matrix_0": 0.0004367828369140625,
+    "curvature_reg_matrix_cholesky_0": 0.1567223072052002,
+    "reconstruction_0": 0.03855776786804199,
+    "mapped_reconstructed_image_0": 0.012428998947143555,
+    "regularization_term_0": 0.0020384788513183594,
+    "log_det_curvature_reg_matrix_term_0": 0.0003476142883300781,
+    "log_det_regularization_matrix_term_0": 3.0994415283203125e-06,
+    "figure_of_merit_0": 0.0012826919555664062
+}

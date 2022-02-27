@@ -1,0 +1,75 @@
+Bayesian Evidence                                                                         78060.01156501
+Maximum Log Likelihood                                                                    78075.49387048
+Maximum Log Posterior                                                                     1154660.28976209
+
+model                                                                                     ModelMapper (N=6)
+    galaxies                                                                              ModelMapper (N=6)
+        lens                                                                              Galaxy (N=0)
+            mass                                                                          EllIsothermal (N=0)
+            shear                                                                         ExternalShear (N=0)
+            bulge                                                                         EllSersic (N=0)
+            disk                                                                          EllExponential (N=0)
+        source                                                                            Galaxy (N=6)
+            pixelization                                                                  VoronoiBrightnessImage (N=3)
+            regularization                                                                AdaptiveBrightness (N=3)
+
+Maximum Log Likelihood Model:
+
+galaxies
+    source
+        pixelization
+            pixels                                                                        2286.687
+            weight_floor                                                                  0.870
+            weight_power                                                                  15.385
+        regularization
+            inner_coefficient                                                             0.932
+            outer_coefficient                                                             64.807
+            signal_scale                                                                  0.046
+
+
+Summary (3.0 sigma limits):
+
+galaxies
+    source
+        pixelization
+            pixels                                                                        2344.7576 (2284.6119, 2480.3586)
+            weight_floor                                                                  0.8898 (0.4691, 0.9646)
+            weight_power                                                                  15.6925 (3.3395, 15.9758)
+        regularization
+            inner_coefficient                                                             1.0732 (0.0000, 1.4254)
+            outer_coefficient                                                             68.2395 (13.1178, 83.1486)
+            signal_scale                                                                  0.0419 (0.0315, 0.3811)
+
+
+Summary (1.0 sigma limits):
+
+galaxies
+    source
+        pixelization
+            pixels                                                                        2344.7576 (2287.2149, 2359.9034)
+            weight_floor                                                                  0.8898 (0.8704, 0.9173)
+            weight_power                                                                  15.6925 (15.4222, 15.8498)
+        regularization
+            inner_coefficient                                                             1.0732 (0.9330, 1.3165)
+            outer_coefficient                                                             68.2395 (64.8717, 70.7438)
+            signal_scale                                                                  0.0419 (0.0354, 0.0456)
+
+instances
+
+galaxies
+    lens
+        redshift                                                                          0.169
+        mass
+            einstein_radius                                                               1.9901533988713438
+            slope                                                                         2.0
+            core_radius                                                                   0.0
+        bulge
+            intensity                                                                     0.22154871931219638
+            effective_radius                                                              0.5009412476526002
+            sersic_index                                                                  1.2862557142277615
+        disk
+            intensity                                                                     0.03847509520522891
+            effective_radius                                                              4.292006475517781
+            sersic_index                                                                  1.0
+    source
+        redshift                                                                          0.451
