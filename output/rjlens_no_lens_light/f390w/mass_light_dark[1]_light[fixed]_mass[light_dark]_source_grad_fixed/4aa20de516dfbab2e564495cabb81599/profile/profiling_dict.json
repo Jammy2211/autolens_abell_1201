@@ -1,0 +1,22 @@
+{
+    "traced_grid_list_of_inversion_from_0": 2.589231491088867,
+    "traced_sparse_grid_pg_list_from_0": 0.021188735961914062,
+    "relocated_grid_from_0": 0.4183614253997803,
+    "relocated_pixelization_grid_from_0": 0.002351999282836914,
+    "pixelization_grid_from_0": 3.0040740966796875e-05,
+    "pix_sub_weights_0": 0.05267500877380371,
+    "data_unique_mappings_0": 0.009366989135742188,
+    "data_vector_from_0": 0.017099618911743164,
+    "curvature_matrix_diag_0": 0.45984768867492676,
+    "curvature_matrix_0": 3.3855438232421875e-05,
+    "curvature_matrix_1": 2.2172927856445312e-05,
+    "regularization_matrix_0": 0.020927906036376953,
+    "curvature_reg_matrix_0": 0.009419918060302734,
+    "curvature_reg_matrix_cholesky_0": 0.15316319465637207,
+    "reconstruction_0": 0.0407865047454834,
+    "mapped_reconstructed_data_dict_from_0": 0.01409602165222168,
+    "regularization_term_0": 0.002390623092651367,
+    "log_det_curvature_reg_matrix_term_0": 0.00036072731018066406,
+    "log_det_regularization_matrix_term_0": 0.05470633506774902,
+    "figure_of_merit_0": 0.0014073848724365234
+}

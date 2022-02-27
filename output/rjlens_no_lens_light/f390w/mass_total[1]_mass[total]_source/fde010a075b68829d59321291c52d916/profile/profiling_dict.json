@@ -1,0 +1,21 @@
+{
+    "traced_grids_of_inversion_from_grid_0": 0.6725163459777832,
+    "traced_sparse_grids_of_planes_from_grid_0": 0.00569915771484375,
+    "relocate_grid_via_border_0": 0.3895106315612793,
+    "relocate_pixelization_grid_via_border_0": 0.002108335494995117,
+    "make_pixelization_grid_0": 7.62939453125e-06,
+    "pixelization_index_for_sub_slim_index_0": 0.04416990280151367,
+    "data_unique_mappings_0": 0.005228281021118164,
+    "w_tilde_data_0": 0.013910293579101562,
+    "data_vector_0": 0.0005390644073486328,
+    "curvature_matrix_0": 0.3684566020965576,
+    "regularization_matrix_0": 0.012496232986450195,
+    "curvature_reg_matrix_0": 0.00039076805114746094,
+    "curvature_reg_matrix_cholesky_0": 0.10591340065002441,
+    "reconstruction_0": 0.03362464904785156,
+    "mapped_reconstructed_image_0": 0.012438774108886719,
+    "regularization_term_0": 0.0013854503631591797,
+    "log_det_curvature_reg_matrix_term_0": 0.00032067298889160156,
+    "log_det_regularization_matrix_term_0": 0.05007791519165039,
+    "figure_of_merit_0": 0.0012187957763671875
+}

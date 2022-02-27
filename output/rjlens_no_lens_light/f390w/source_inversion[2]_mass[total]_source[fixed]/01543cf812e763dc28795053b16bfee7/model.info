@@ -1,0 +1,32 @@
+Total Free Parameters = 7 
+
+model                                                                                     CollectionPriorModel (N=7)
+    galaxies                                                                              CollectionPriorModel (N=7)
+        lens                                                                              Galaxy (N=7)
+            mass                                                                          EllIsothermal (N=5)
+            shear                                                                         ExternalShear (N=2)
+        source                                                                            Galaxy (N=0)
+            pixelization                                                                  VoronoiMagnification (N=0)
+            regularization                                                                Constant (N=0) 
+
+galaxies
+    lens
+        redshift                                                                          0.169
+        mass
+            centre
+                centre_0                                                                  GaussianPrior, mean = 0.015387588637029232, sigma = 0.05
+                centre_1                                                                  GaussianPrior, mean = -0.0035058103331657973, sigma = 0.05
+            elliptical_comps
+                elliptical_comps_0                                                        GaussianPrior, mean = 0.31624275325898416, sigma = 0.2
+                elliptical_comps_1                                                        GaussianPrior, mean = -0.06180441357823819, sigma = 0.2
+            einstein_radius                                                               GaussianPrior, mean = 2.005688657314065, sigma = 0.5014221643285163
+        shear
+            elliptical_comps
+                elliptical_comps_0                                                        GaussianPrior, mean = 0.016241970703905102, sigma = 0.05
+                elliptical_comps_1                                                        GaussianPrior, mean = 0.19508155864720317, sigma = 0.05
+    source
+        redshift                                                                          0.451
+        pixelization
+            shape                                                                         (41, 37)
+        regularization
+            coefficient                                                                   106.2090003640658

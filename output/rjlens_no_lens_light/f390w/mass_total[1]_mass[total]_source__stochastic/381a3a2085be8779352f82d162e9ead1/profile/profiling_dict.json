@@ -1,0 +1,22 @@
+{
+    "traced_grids_of_inversion_from_0": 1.0147731304168701,
+    "traced_sparse_grids_list_of_planes_from_0": 0.007599592208862305,
+    "relocate_grid_via_border_0": 0.3598752021789551,
+    "relocate_pixelization_grid_via_border_0": 0.0019998550415039062,
+    "make_pixelization_grid_0": 1.6927719116210938e-05,
+    "pixelization_index_for_sub_slim_index_0": 0.04163312911987305,
+    "data_unique_mappings_0": 0.005315303802490234,
+    "data_vector_from_0": 0.01362156867980957,
+    "curvature_matrix_diag_0": 0.34290528297424316,
+    "curvature_matrix_0": 2.7894973754882812e-05,
+    "curvature_matrix_1": 1.5735626220703125e-05,
+    "regularization_matrix_0": 0.012610435485839844,
+    "curvature_reg_matrix_0": 0.0003802776336669922,
+    "curvature_reg_matrix_cholesky_0": 0.10700869560241699,
+    "reconstruction_0": 0.0350496768951416,
+    "mapped_reconstructed_data_of_mappers_from_0": 0.012470722198486328,
+    "regularization_term_0": 0.0017397403717041016,
+    "log_det_curvature_reg_matrix_term_0": 0.00035500526428222656,
+    "log_det_regularization_matrix_term_0": 0.04655170440673828,
+    "figure_of_merit_0": 0.0011534690856933594
+}
