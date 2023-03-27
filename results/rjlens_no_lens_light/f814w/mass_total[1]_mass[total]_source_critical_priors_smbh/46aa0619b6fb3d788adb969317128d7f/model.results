@@ -1,0 +1,96 @@
+Bayesian Evidence                                                                         78306.68272817
+Maximum Log Likelihood                                                                    78336.57228740
+Maximum Log Posterior                                                                     78341.53482824
+
+model                                                                                     CollectionPriorModel (N=11)
+    galaxies                                                                              CollectionPriorModel (N=11)
+        lens                                                                              Galaxy (N=11)
+            mass                                                                          EllPowerLawBroken (N=8)
+            smbh                                                                          PointMass (N=3)
+            shear                                                                         ExternalShear (N=2)
+        source                                                                            Galaxy (N=0)
+            pixelization                                                                  VoronoiBrightnessImage (N=0)
+            regularization                                                                AdaptiveBrightness (N=0)
+
+Maximum Log Likelihood Model:
+
+galaxies
+    lens
+        smbh
+            centre
+                centre_0                                                                  -0.024
+                centre_1                                                                  -0.000
+            einstein_radius                                                               0.490
+        shear
+            elliptical_comps
+                elliptical_comps_0                                                        -0.052
+                elliptical_comps_1                                                        0.106
+        mass
+            inner_slope                                                                   0.186
+            outer_slope                                                                   0.535
+            break_radius                                                                  0.033
+            einstein_radius                                                               1.705
+            elliptical_comps
+                elliptical_comps_0                                                        0.131
+                elliptical_comps_1                                                        -0.085
+
+
+Summary (3.0 sigma limits):
+
+galaxies
+    lens
+        smbh
+            centre
+                centre_0                                                                  -0.0230 (-0.0483, 0.0061)
+                centre_1                                                                  -0.0005 (-0.0090, 0.0138)
+            einstein_radius                                                               0.4824 (0.4545, 0.5067)
+        shear
+            elliptical_comps
+                elliptical_comps_0                                                        -0.0544 (-0.0695, -0.0462)
+                elliptical_comps_1                                                        0.1071 (0.0992, 0.1195)
+        mass
+            inner_slope                                                                   0.2172 (0.0010, 0.2997)
+            outer_slope                                                                   0.5418 (0.5021, 0.5619)
+            break_radius                                                                  0.0879 (0.0042, 0.2090)
+            einstein_radius                                                               1.7119 (1.7002, 1.7432)
+            elliptical_comps
+                elliptical_comps_0                                                        0.1270 (0.1082, 0.1360)
+                elliptical_comps_1                                                        -0.0832 (-0.0903, -0.0629)
+
+
+Summary (1.0 sigma limits):
+
+galaxies
+    lens
+        smbh
+            centre
+                centre_0                                                                  -0.0230 (-0.0298, -0.0146)
+                centre_1                                                                  -0.0005 (-0.0034, 0.0019)
+            einstein_radius                                                               0.4824 (0.4713, 0.4905)
+        shear
+            elliptical_comps
+                elliptical_comps_0                                                        -0.0544 (-0.0590, -0.0518)
+                elliptical_comps_1                                                        0.1071 (0.1047, 0.1098)
+        mass
+            inner_slope                                                                   0.2172 (0.1116, 0.2705)
+            outer_slope                                                                   0.5418 (0.5336, 0.5480)
+            break_radius                                                                  0.0879 (0.0514, 0.1272)
+            einstein_radius                                                               1.7119 (1.7045, 1.7232)
+            elliptical_comps
+                elliptical_comps_0                                                        0.1270 (0.1211, 0.1310)
+                elliptical_comps_1                                                        -0.0832 (-0.0861, -0.0793)
+
+instances
+
+galaxies
+    lens
+        redshift                                                                          0.169
+    source
+        redshift                                                                          0.451
+        pixelization
+            weight_floor                                                                  0.49501076385901666
+            weight_power                                                                  16.324406558179
+        regularization
+            inner_coefficient                                                             0.5438165305852884
+            outer_coefficient                                                             31.407284752030034
+            signal_scale                                                                  0.1092963333520203

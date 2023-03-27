@@ -1,0 +1,54 @@
+Total Free Parameters = 12 
+
+model                                                                                     CollectionPriorModel (N=12)
+    galaxies                                                                              CollectionPriorModel (N=12)
+        lens                                                                              Galaxy (N=12)
+            bulge                                                                         EllSersic (N=7)
+            disk                                                                          EllSersic (N=7)
+            mass                                                                          EllIsothermal (N=0)
+            shear                                                                         ExternalShear (N=0)
+        source                                                                            Galaxy (N=0)
+            pixelization                                                                  VoronoiBrightnessImage (N=0)
+            regularization                                                                AdaptiveBrightness (N=0) 
+
+galaxies
+    lens
+        redshift                                                                          0.169
+        bulge
+            centre
+                centre_0                                                                  GaussianPrior, mean = 0.0, sigma = 0.1001
+                centre_1                                                                  GaussianPrior, mean = 0.0, sigma = 0.1001
+            elliptical_comps
+                elliptical_comps_0                                                        GaussianPrior, mean = 0.0, sigma = 0.5
+                elliptical_comps_1                                                        GaussianPrior, mean = 0.0, sigma = 0.5
+            intensity                                                                     LogUniformPrior, lower_limit = 1e-06, upper_limit = 1000000.0
+            effective_radius                                                              UniformPrior, lower_limit = 0.0, upper_limit = 30.0
+            sersic_index                                                                  UniformPrior, lower_limit = 0.5, upper_limit = 5.0
+        disk
+            centre
+                centre_0                                                                  GaussianPrior, mean = 0.0, sigma = 0.1001
+                centre_1                                                                  GaussianPrior, mean = 0.0, sigma = 0.1001
+            elliptical_comps
+                elliptical_comps_0                                                        GaussianPrior, mean = 0.0, sigma = 0.5
+                elliptical_comps_1                                                        GaussianPrior, mean = 0.0, sigma = 0.5
+            intensity                                                                     LogUniformPrior, lower_limit = 1e-06, upper_limit = 1000000.0
+            effective_radius                                                              UniformPrior, lower_limit = 0.0, upper_limit = 30.0
+            sersic_index                                                                  UniformPrior, lower_limit = 0.5, upper_limit = 5.0
+        mass
+            centre                                                                        (0.1256096110326526, 0.04876227730492767)
+            elliptical_comps                                                              (0.09723485167843823, 0.03626983771847549)
+            einstein_radius                                                               1.957087516731078
+            slope                                                                         2.0
+            core_radius                                                                   0.0
+        shear
+            centre                                                                        (0.0, 0.0)
+            elliptical_comps                                                              (-0.14137798480384428, 0.2312668272564577)
+    source
+        redshift                                                                          0.451
+        pixelization
+            weight_floor                                                                  0.9993902075451797
+            weight_power                                                                  19.019479862639123
+        regularization
+            inner_coefficient                                                             0.021691338835722492
+            outer_coefficient                                                             108.76684928384367
+            signal_scale                                                                  0.03587219038459366

@@ -1,0 +1,114 @@
+Bayesian Evidence                                                                         125561.11916435
+Maximum Log Likelihood                                                                    125577.42586081
+Maximum Log Posterior                                                                     125580.49677863
+
+model                                                                                     ModelMapper (N=11)
+    galaxies                                                                              ModelMapper (N=11)
+        lens                                                                              Galaxy (N=11)
+            hyper_model_image                                                             Array2D (N=0)
+                mask                                                                      Mask2D (N=0)
+            hyper_galaxy_image                                                            Array2D (N=0)
+                mask                                                                      Mask2D (N=0)
+            mass                                                                          EllPowerLawBroken (N=8)
+            shear                                                                         ExternalShear (N=2)
+            smbh                                                                          PointMass (N=3)
+            bulge                                                                         EllSersic (N=0)
+            disk                                                                          EllSersic (N=0)
+        source                                                                            Galaxy (N=0)
+            pixelization                                                                  VoronoiBrightnessImage (N=0)
+            regularization                                                                AdaptiveBrightness (N=0)
+            hyper_model_image                                                             Array2D (N=0)
+                mask                                                                      Mask2D (N=0)
+            hyper_galaxy_image                                                            Array2D (N=0)
+                mask                                                                      Mask2D (N=0)
+
+Maximum Log Likelihood Model:
+
+galaxies
+    lens
+        smbh
+            centre
+                centre_0                                                                  0.131
+                centre_1                                                                  0.052
+            einstein_radius                                                               0.603
+        mass
+            elliptical_comps
+                elliptical_comps_0                                                        0.111
+                elliptical_comps_1                                                        -0.075
+            einstein_radius                                                               1.525
+            inner_slope                                                                   0.706
+            outer_slope                                                                   0.505
+            break_radius                                                                  1.086
+        shear
+            elliptical_comps
+                elliptical_comps_0                                                        -0.102
+                elliptical_comps_1                                                        0.150
+
+
+Summary (3.0 sigma limits):
+
+galaxies
+    lens
+        smbh
+            centre
+                centre_0                                                                  0.0824 (0.0141, 0.1423)
+                centre_1                                                                  0.0455 (0.0172, 0.0728)
+            einstein_radius                                                               0.5164 (0.4323, 0.6041)
+        mass
+            elliptical_comps
+                elliptical_comps_0                                                        0.1083 (0.0932, 0.1283)
+                elliptical_comps_1                                                        -0.0797 (-0.0982, -0.0644)
+            einstein_radius                                                               1.6529 (1.5114, 1.7530)
+            inner_slope                                                                   0.7143 (0.6135, 0.8737)
+            outer_slope                                                                   0.6441 (0.4725, 0.7403)
+            break_radius                                                                  0.8508 (0.4529, 1.1015)
+        shear
+            elliptical_comps
+                elliptical_comps_0                                                        -0.1071 (-0.1250, -0.0881)
+                elliptical_comps_1                                                        0.1496 (0.1241, 0.1655)
+
+
+Summary (1.0 sigma limits):
+
+galaxies
+    lens
+        smbh
+            centre
+                centre_0                                                                  0.0824 (0.0396, 0.1119)
+                centre_1                                                                  0.0455 (0.0309, 0.0533)
+            einstein_radius                                                               0.5164 (0.4794, 0.5552)
+        mass
+            elliptical_comps
+                elliptical_comps_0                                                        0.1083 (0.1021, 0.1158)
+                elliptical_comps_1                                                        -0.0797 (-0.0884, -0.0718)
+            einstein_radius                                                               1.6529 (1.5836, 1.7111)
+            inner_slope                                                                   0.7143 (0.6704, 0.7562)
+            outer_slope                                                                   0.6441 (0.5361, 0.6836)
+            break_radius                                                                  0.8508 (0.7424, 0.9624)
+        shear
+            elliptical_comps
+                elliptical_comps_0                                                        -0.1071 (-0.1139, -0.0984)
+                elliptical_comps_1                                                        0.1496 (0.1412, 0.1583)
+
+instances
+
+galaxies
+    lens
+        redshift                                                                          0.169
+        bulge
+            intensity                                                                     0.014605359253369685
+            effective_radius                                                              0.517362319459504
+            sersic_index                                                                  1.1611754471613915
+        disk
+            intensity                                                                     0.0032672982251057106
+            effective_radius                                                              3.1465437170383512
+            sersic_index                                                                  0.5887726583033156
+    source
+        redshift                                                                          0.451
+        pixelization
+            weight_floor                                                                  0.9993902075451797
+            weight_power                                                                  19.019479862639123
+        regularization
+            inner_coefficient                                                             0.021691338835722492
+            outer_coefficient                                                             108.76684928384367
+            signal_scale                                                                  0.03587219038459366

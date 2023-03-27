@@ -1,0 +1,65 @@
+Bayesian Evidence                                                                         78208.98095811
+Maximum Log Likelihood                                                                    78220.57719756
+Maximum Log Posterior                                                                     1039949.84911720
+
+model                                                                                     ModelMapper (N=6)
+    galaxies                                                                              ModelMapper (N=6)
+        lens                                                                              Galaxy (N=0)
+            mass                                                                          EllIsothermal (N=0)
+            shear                                                                         ExternalShear (N=0)
+        source                                                                            Galaxy (N=6)
+            pixelization                                                                  VoronoiBrightnessImage (N=3)
+            regularization                                                                AdaptiveBrightness (N=3)
+
+Maximum Log Likelihood Model:
+
+galaxies
+    source
+        pixelization
+            pixels                                                                        1990.744
+            weight_floor                                                                  0.495
+            weight_power                                                                  16.324
+        regularization
+            inner_coefficient                                                             0.544
+            outer_coefficient                                                             31.407
+            signal_scale                                                                  0.109
+
+
+Summary (3.0 sigma limits):
+
+galaxies
+    source
+        pixelization
+            pixels                                                                        1991.0251 (1627.6965, 2436.2601)
+            weight_floor                                                                  0.4292 (0.1233, 0.5572)
+            weight_power                                                                  15.7019 (9.6230, 18.2856)
+        regularization
+            inner_coefficient                                                             0.1531 (0.0096, 1.0323)
+            outer_coefficient                                                             30.0010 (14.2781, 39.9699)
+            signal_scale                                                                  0.1175 (0.0936, 0.2758)
+
+
+Summary (1.0 sigma limits):
+
+galaxies
+    source
+        pixelization
+            pixels                                                                        1991.0251 (1899.7765, 2046.9403)
+            weight_floor                                                                  0.4292 (0.2606, 0.5108)
+            weight_power                                                                  15.7019 (10.3310, 16.3476)
+        regularization
+            inner_coefficient                                                             0.1531 (0.0287, 0.6837)
+            outer_coefficient                                                             30.0010 (21.2404, 31.4487)
+            signal_scale                                                                  0.1175 (0.1101, 0.2051)
+
+instances
+
+galaxies
+    lens
+        redshift                                                                          0.169
+        mass
+            einstein_radius                                                               2.0030076006149766
+            slope                                                                         2.0
+            core_radius                                                                   0.0
+    source
+        redshift                                                                          0.451
