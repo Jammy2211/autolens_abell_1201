@@ -1,0 +1,25 @@
+#!/bin/bash -l
+
+#SBATCH -N 1
+#SBATCH --ntasks=2
+#SBATCH --cpus-per-task=14
+#SBATCH -J light_dark_nl
+#SBATCH -o output/output.%A.out
+#SBATCH -e error/error.%A.err
+#SBATCH -p cosma7
+#SBATCH -A dp004
+#SBATCH -t 72:00:00   # longest job
+#SBATCH --mail-type=END                          # notifications for job done & fail
+#SBATCH --mail-user=james.w.nightingale@durham.ac.uk
+
+source /cosma/home/dp004/dc-nigh1/rjlens/activate.sh
+
+export THREADS=1
+
+export OPENBLAS_NUM_THREADS=$THREADS
+export MKL_NUM_THREADS=$THREADS
+export OMP_NUM_THREADS=$THREADS
+export VECLIB_MAXIMUM_THREADS=$THREADS
+export NUMEXPR_NUM_THREADS=$THREADS
+
+srun -n 2 --multi-prog conf/light_dark_smbh__critical_priors.conf
