@@ -10,20 +10,20 @@ Structure
 
 The workspace includes the following main directories:
 
-- ``PyAuto``: The PyAutoLens (and parent projects) source code used to generate the results and paper figures. Use
-this via a GitHub clone to run the .sqlite files.
+- ``dataset``: The Abell 1201 dataset used in the paper.
+- ``results``: The results of the model fits to Abell 1201 (includes priors, parameter estimates, images, etc).
 - ``paper``: The visualization scripts to produce paper plots.
 - ``cosma``: The super computer scripts used to model Abell 1201.
 - ``slam``: The SLaM pipelines used to model Abell 1201.
+- ``PyAuto``: The PyAutoLens (and parent projects) source code used to generate the results and paper figures. Use
+this via a GitHub clone to run the .sqlite files.
 
-Zenodo
-------
+To run the visualization scripts, you must first download the results from Zenodo (see below).
 
-Due to GitHub file size limits the dynesty chains and images of each fit are stored at the following Zenodo link and mus tbe downloade separatley:
+Results
+-------
 
-[INSERT ZENODO LINK]
-
-The output folders from the Zenodo link are as follows:
+The ``results`` folder contains the results of the model fits to Abell 1201 and is structured as follows:
 
 - ``rjlens``: Model fit results to the image data which includes the lens light.
 - ``rjlens_no_lens_light``: Model fit results to image data where the lens light has been subtracted (using the max likelihod model from ``rjlens``).
@@ -32,3 +32,12 @@ The output folders from the Zenodo link are as follows:
 - ``rjlens_no_lens_light_radial``: Model fit results for appendix G where the mass model has a core and large radial critical curve.
 - ``rjlens_no_lens_light_pdf``: The specific results used to produce the PDF of SMBH mass.
 - ``rjlens_no_lens_light_misc``: Other fits used in the paper, like those where the mass model centre is fixed to the bulge or the SMBH centre is free to vary.
+
+Zenodo / SQLite
+---------------
+
+Due to GitHub file size limits the dynesty chains and images of each fit are stored at the following Zenodo link and 
+must be downloaded separately:
+
+[INSERT ZENODO LINK]
+
