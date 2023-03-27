@@ -1,0 +1,25 @@
+Maximum Log Likelihood                                                                    1.00000000
+Maximum Log Posterior                                                                     1.00000000
+
+model                                                                                     ModelMapper (N=2)
+    mock_class                                                                            MockClassx2 (N=2)
+
+Maximum Log Likelihood Model:
+
+mock_class
+    one                                                                                   1.000
+    two                                                                                   2.000
+
+ WARNING: The samples have not converged enough to compute a PDF and model errors. 
+ The model below over estimates errors. 
+
+
+
+Summary (1.0 sigma limits):
+
+mock_class
+    one                                                                                   1.00 (1.00, 1.20)
+    two                                                                                   2.00 (2.00, 2.20)
+
+instances
+
