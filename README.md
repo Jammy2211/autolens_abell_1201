@@ -39,5 +39,5 @@ Zenodo / SQLite
 Due to GitHub file size limits the dynesty chains and images of each fit are stored at the following Zenodo link and 
 must be downloaded separately:
 
-[INSERT ZENODO LINK]
+https://doi.org/10.5281/zenodo.7695438
 
